@@ -6,15 +6,15 @@ Instead of ad-hoc prompting, I build systems that provide **structured context**
 
 ---
 
-### The Pliny Framework
+### FORGE Framework
 
-The core of my methodology is the **Pliny Framework**, a set of structured workflows for AI-powered development:
+The core of my methodology is **[FORGE](https://github.com/0xPliny/forge-framework)** (Framework for Orchestrated, Repeatable, Governed Engineering) — a structured AI methodology for turning raw AI capability into reliable engineering output:
 
-| Methodology | Purpose | Flow |
-|-------------|---------|------|
-| **R-I-S-E** | Creation | Research → Identify → Synthesize → Execute |
-| **C-A-R-E** | Debugging | Context → Analyze → Respond → Evaluate |
-| **HARVEST** | Documentation | Capture knowledge and feed it back into the system |
+| Workflow | Purpose | Flow |
+|----------|---------|------|
+| **R-I-S-E** | Creation & Design | Research → Implement → Synthesize → Execute |
+| **C-A-R-E** | Debugging & Optimization | Collect → Analyze → Refine → Execute |
+| **HARVEST** | Documentation & Understanding | 7-phase knowledge extraction pipeline |
 
 These workflows replace unstructured, conversational AI usage with repeatable, governed processes that compound over time.
 
